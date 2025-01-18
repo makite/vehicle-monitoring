@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535532579747",
+    "project_id": "vehicle-app-baedb",
+    "storage_bucket": "vehicle-app-baedb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535532579747:android:dfb2fe1566e667a85ec816",
+        "android_client_info": {
+          "package_name": "com.example.vehicle_monitoring_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5tVtbJIuSSMeSH1Vr3Y3hjLoXB__tPlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
